@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anurodh0011
+- 👋 Hi, I’m @Anurodh
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on for Internship
